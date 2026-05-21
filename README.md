@@ -7,3 +7,6 @@ B.S., Biochemistry | University of Central Florida (_May 2023_)
 
 ## 🚀 Projects
 - [Review of IP-CRM For Phase I Clinical Trials](https://github.com/ayushi055/IP-CRM)
+
+## 📖 Peer-reviewed Publications
+- Mramba, L. K., Agboli, V. I., & Jain, A. (2026). Identifying SNPs from GWAS Associated with Type 1 Diabetes—A Meta-Analysis.       Mathematics, 14(3), 514. [https://doi.org/10.3390/math14030514](https://doi.org/10.3390/math14030514) 
