@@ -7,6 +7,7 @@ B.S., Biochemistry | University of Central Florida (_May 2023_)
 
 ## 🚀 Projects
 - [Review of IP-CRM For Phase I Clinical Trials](https://github.com/ayushi055/IP-CRM)
+- [Surgical Intervention and Survival Outcomes in Pancreatic Cancer Patients](https://github.com/ayushi055/Pancreatic-Cancer/)
 - [Compartmental SCIR Transmission Model Evaluation](https://github.com/ayushi055/Compartmental-SCIR-Transmission-Model-Evaluation)
 - [R Shiny App: Interactive Map of Heart Disease Death Rates In Florida and Risk Prediction](https://github.com/ayushi055/Florida-Heart-Disease/)
 
